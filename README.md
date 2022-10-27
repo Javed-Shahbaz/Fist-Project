@@ -1,1 +1,4 @@
-# Fist-Project
+## Hello Project
+- HTML 
+- CSS 
+- VS CODE used
