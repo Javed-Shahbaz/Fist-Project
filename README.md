@@ -1,61 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+Hello Project
+First microverse Project.
 
-# Hello Project
+Built With
+HTML
+CSS
+Web Development
+Getting Started
+To get a local copy up and running, follow the steps in Setup below.
 
-> First microverse Project.
+Prerequisites
+Basic knowledge of HTML, CSS, and JavaScript.
+
+Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+Download the ZIP from this location, or run the following git command to clone the files to your machine:
 
 
-## Built With
+```bash
+git clone https://github.comJaved-Shahbaz/First-Project.git
+- Once the files are on your machine, open the _First-Project_ folder in [Visual Studio Code](https://code.visualstudio.com/)
 
-- HTML
-- CSS
-- Web Development
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Javed Shahbaz**
+- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
@@ -73,3 +51,17 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
